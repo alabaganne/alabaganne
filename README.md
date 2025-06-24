@@ -14,7 +14,7 @@
 
 • **Problem solver** who enjoys tackling algorithmic challenges on LeetCode 🧮
 
-• **Continuous learner** always exploring new technologies and frameworks ��
+• **Continuous learner** always exploring new technologies and frameworks ⚒️
 
 • **Cloud-savvy** with experience in AWS and modern development practices ☁️
 
@@ -32,7 +32,7 @@ Node.js • Express.js • NestJS • Laravel • MySQL • MongoDB • Firebase
 ### 🎨 Styling & UI
 Tailwind CSS • Bootstrap • Shadcn UI • Responsive Web Design • Mobile-First Design
 
-### �� Tools & DevOps
+### ⚒️ Tools & DevOps
 Git • GitHub • Linux • Unit Testing • Integration Testing • Figma • Adobe XD • Adobe Photoshop
 
 ### ☁️ Cloud & Dev Practices
