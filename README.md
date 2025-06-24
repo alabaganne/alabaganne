@@ -1,14 +1,5 @@
 # Ala Baganne
-
-## About Me
 🎓 Fresh Software Engineering graduate from ISSATSo with 4+ years of hands-on web development experience. Currently working as a full-stack developer at Retain Health, Inc., while also building SaaS products and taking on freelance projects.
-
-## Contact
-✉️ Gmail: [alabaganne9@gmail.com](mailto:alabaganne9@gmail.com)
-🌐 Website: [alabaganne.com](https://alabaganne.com)
-🔗 LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/)
-💻 LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/)
-
 
 ## 🛠 Tech Stack
 
@@ -60,3 +51,13 @@
 - Amazon Web Services (AWS)
 - Agile Methodology
 - Scrum
+
+## Let's Connect
+
+✉️ Gmail: [alabaganne9@gmail.com](mailto:alabaganne9@gmail.com)
+
+🌐 Website: [alabaganne.com](https://alabaganne.com)
+
+🔗 LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/)
+
+💻 LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/)
