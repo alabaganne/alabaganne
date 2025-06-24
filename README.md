@@ -14,7 +14,7 @@
 
 • **Problem solver** who enjoys tackling algorithmic challenges on LeetCode 🧮
 
-• **Continuous learner** always exploring new technologies and frameworks ��
+• **Continuous learner** always exploring new technologies and frameworks ⚒️
 
 • **Cloud-savvy** with experience in AWS and modern development practices ☁️
 
