@@ -56,8 +56,8 @@
 
 ✉️ Gmail: [alabaganne9@gmail.com](mailto:alabaganne9@gmail.com)
 
-🌐 Website: [alabaganne.com](https://alabaganne.com){:target="_blank"}
+🌐 Website: [alabaganne.com](https://alabaganne.com)
 
-🔗 LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/){:target="_blank"}
+🔗 LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/)
 
-💻 LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/){:target="_blank"}
+💻 LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/)
