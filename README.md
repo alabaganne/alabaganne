@@ -1,51 +1,35 @@
 # Ala Baganne
 
-• **Full-stack developer** with 4+ years of hands-on web development experience 💻
+**Full-stack developer** with 4+ years of hands-on experience  
+**Software Engineering graduate** from ISSATSo  
+**Currently building** at Retain Health, Inc.  
+**Freelancer & SaaS builder** launching my own ideas  
+**Tech-focused** on React, Node.js, and modern web tools  
+**Cloud-ready & curious**, always learning and solving problems  
 
-• **Recent Software Engineering graduate** from ISSATSo 🎓
+## Tech Stack
 
-• **Currently working** as a full-stack developer at Retain Health, Inc. 💼
+### Languages  
+JavaScript • TypeScript • Python • PHP • C/C++ • Java  
 
-• **Freelance developer** taking on diverse client projects 🚀
+### Frontend  
+React.js • Next.js • Vue.js • AngularJS • Angular • HTML • CSS  
 
-• **SaaS entrepreneur** building and launching his own product ideas 💡
+### Backend  
+Node.js • NestJS • Express • Laravel • MySQL • MongoDB • Firebase • Supabase  
 
-• **Tech enthusiast** specializing in React, Node.js, and modern web technologies ⚡
+### UI & Styling  
+Tailwind CSS • Bootstrap • Shadcn UI • Responsive/Mobile Design  
 
-• **Problem solver** who enjoys tackling algorithmic challenges on LeetCode 🧮
+### Tools  
+Git • GitHub • Linux • Figma • Adobe XD/Photoshop • Testing  
 
-• **Continuous learner** always exploring new technologies and frameworks ⚒️
+### Cloud & Practices  
+AWS • Agile • Scrum  
 
-• **Cloud-savvy** with experience in AWS and modern development practices ☁️
-
-## 🛠 Tech Stack
-
-### 🧠 Programming Languages
-JavaScript (ES6+) • TypeScript • Python • PHP • C/C++ • Java
-
-### 🎨 Frontend
-HTML5 • CSS3 • React.js • Next.js • Vue.js • AngularJS • Angular
-
-### 🛠 Backend
-Node.js • Express.js • NestJS • Laravel • MySQL • MongoDB • Firebase • Supabase
-
-### 🎨 Styling & UI
-Tailwind CSS • Bootstrap • Shadcn UI • Responsive Web Design • Mobile-First Design
-
-### ⚒️ Tools & DevOps
-Git • GitHub • Linux • Unit Testing • Integration Testing • Figma • Adobe XD • Adobe Photoshop
-
-### ☁️ Cloud & Dev Practices
-Amazon Web Services (AWS) • Agile Methodology • Scrum
-
-## Let's Connect
-
-✉️ Gmail: [alabaganne9@gmail.com](mailto:alabaganne9@gmail.com)
-
-🌐 Website: [alabaganne.com](https://alabaganne.com)
-
-🔗 LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/)
-
-💼 Upwork: [upwork.com/freelancers/~018064bc5b1d8ca3ce](https://www.upwork.com/freelancers/~018064bc5b1d8ca3ce)
-
-💻 LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/)
+## Connect  
+Gmail: [alabaganne9@gmail.com](mailto:alabaganne9@gmail.com)  
+Website: [alabaganne.com](https://alabaganne.com)  
+LinkedIn: [linkedin.com/in/alabaganne](https://www.linkedin.com/in/alabaganne/)  
+Upwork: [upwork.com/freelancers/~018064bc5b1d8ca3ce](https://www.upwork.com/freelancers/~018064bc5b1d8ca3ce/)  
+LeetCode: [leetcode.com/u/alabaganne](https://leetcode.com/u/alabaganne/)
