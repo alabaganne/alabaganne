@@ -10,13 +10,16 @@
 ## Tech Stack
 
 ### Languages  
-JavaScript • TypeScript • Python • PHP • C/C++ • Java  
+JavaScript • TypeScript • Python • PHP • C/C++ • Java
 
 ### Frontend  
-React.js • Next.js • Vue.js • AngularJS • Angular • HTML • CSS  
+React.js • Next.js • Vue.js • AngularJS • HTML • CSS
 
 ### Backend  
-Node.js • NestJS • Express • Laravel • MySQL • MongoDB • Firebase • Supabase  
+Node.js • NestJS • Express • Laravel
+
+### Databases
+MySQL • MongoDB • Firebase • Supabase, PostgreSQL
 
 ### UI & Styling  
 Tailwind CSS • Bootstrap • Shadcn UI • Responsive/Mobile Design  
