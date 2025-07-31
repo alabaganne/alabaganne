@@ -25,7 +25,7 @@ MySQL • MongoDB • Firebase • Supabase, PostgreSQL
 Tailwind CSS • Bootstrap • Shadcn UI • Responsive/Mobile Design  
 
 ### Tools  
-Git • GitHub • Linux • Figma • Adobe XD/Photoshop • Testing  
+Git • GitHub • Docker • Linux • Figma • Adobe XD/Photoshop • Testing  
 
 ### Cloud & Practices  
 AWS • Agile • Scrum  
